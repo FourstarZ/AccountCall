@@ -1,4 +1,3 @@
-# Voicecord [![GitHub forks](https://img.shields.io/github/forks/Naru7/Voicecord)](https://github.com/Naru7/Voicecord/network)
 Make your Discord Account Online 24/7 on Voice Channels!
 
 ----
@@ -51,5 +50,3 @@ Use [uptimerobot.com](https://uptimerobot.com) to make your repl online 24/7.
 </br>
 
 ----
-
->Voicecord © 2022 by Naru#9262
